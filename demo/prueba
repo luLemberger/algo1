@@ -1,0 +1,8 @@
+// a ver si sale esto en el github jajs
+// Main.java
+public class Main {
+    public static void main(String[] args) {
+        // Imprime un mensaje en la consola
+        System.out.println("hola, se ve en github esto?");
+    }
+}
